@@ -3670,10 +3670,10 @@ hr {
 .best-pricing .pricing-list ul li {
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 500;
     color: #010101;
-    margin-bottom: 18px
+    margin-bottom: 30px
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3691,7 +3691,7 @@ hr {
 .best-pricing .pricing-list ul li span {
     color: #d19f68 !important;
     font-weight: 400;
-    font-size: 16px
+    font-size: 17px
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -3739,6 +3739,9 @@ hr {
     #price-2 {
         text-align: center;
         margin-bottom: 450px;
+    }
+    .price-margin {
+        padding-left: 8px;
     }
 }
 
