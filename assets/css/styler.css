@@ -3819,7 +3819,7 @@ hr {
     }
 }
 
-@media (min-width: 1401px) and (max-width: 1600px) {
+@media (min-width: 1401px) {
     .best-pricing .pricing-img .pricing-img2 {
         left: 59%;
         width: 33%
